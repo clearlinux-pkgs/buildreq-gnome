@@ -20,6 +20,9 @@ Requires: 	libxml2-dev
 Requires: 	libxslt-bin
 Requires:	gettext
 Requires:	perl(XML::Parser)
+Requires:	dbus-dev
+Requires:	systemd-dev
+
 
 %description
 Helper files 
