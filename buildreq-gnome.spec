@@ -22,6 +22,7 @@ Requires:	gettext
 Requires:	perl(XML::Parser)
 Requires:	dbus-dev
 Requires:	systemd-dev
+Requires:	libabigail
 
 
 %description
