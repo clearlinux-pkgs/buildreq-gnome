@@ -15,6 +15,7 @@ Requires:	desktop-file-utils
 Requires:	glib-dev
 Requires:	glibc-bin
 Requires:	pkgconfig(gsettings-desktop-schemas)
+Requires:	gsettings-desktop-schemas
 Requires:	itstool
 Requires: 	libxml2-dev
 Requires: 	libxslt-bin
