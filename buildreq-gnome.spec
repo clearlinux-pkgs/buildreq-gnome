@@ -25,6 +25,8 @@ Requires:	perl(XML::Parser)
 Requires:	dbus-dev
 Requires:	systemd-dev
 Requires:	libabigail
+Requires:	vala
+Requires:	vala-dev
 
 
 %description
