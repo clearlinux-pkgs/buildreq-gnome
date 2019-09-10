@@ -27,7 +27,7 @@ Requires:	systemd-dev
 Requires:	libabigail
 Requires:	vala
 Requires:	vala-dev
-
+Requires:	gtk-doc
 
 %description
 Helper files 
