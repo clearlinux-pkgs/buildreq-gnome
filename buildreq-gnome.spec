@@ -1,6 +1,6 @@
 Name:           buildreq-gnome
 Version:        1
-Release:        16
+Release:        17
 License:        GPL-2.0
 Summary:        Helper files
 Url:            https://clearlinux.org/
