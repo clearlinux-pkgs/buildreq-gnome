@@ -11,6 +11,7 @@ Requires:	python3
 Requires: 	gobject-introspection
 Requires:	gobject-introspection-dev
 Requires:	pkgconfig(gtk+-3.0)
+Requires:       pkgconfig(gtk4)
 Requires:	desktop-file-utils
 Requires:	glib-dev
 Requires:	glibc-bin
