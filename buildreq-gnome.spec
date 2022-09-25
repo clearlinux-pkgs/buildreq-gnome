@@ -31,6 +31,7 @@ Requires:	vala-dev
 Requires:	gtk-doc
 Requires:       pkgconfig(gtk4)
 Requires:       desktop-file-utils
+Requires:	libsoup-dev
 
 %description
 Helper files 
