@@ -32,6 +32,7 @@ Requires:	gtk-doc
 Requires:       pkgconfig(gtk4)
 Requires:       desktop-file-utils
 Requires:	libsoup-dev
+Requires:	pypi-argcomplete
 
 %description
 Helper files 
